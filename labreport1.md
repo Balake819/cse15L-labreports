@@ -1,5 +1,5 @@
 # Lab Report 1
-January 10, 2024
+January 10, 2024 <br/>
 **Terminal Commands:**
 We learned to use cd, cat, ls, and pwd.
 
