@@ -8,7 +8,7 @@ cd changes the directory that you are in, taking an input of the file destinatio
 [user@sahara ~/lecture1]$ cd
 [user@sahara ~]$
 ```
-> Without an input, cd by default will revert back to the original directory, in this case being ~.
+> Without an input, cd by default will revert back to the original directory, in this case being ~ <br/>
 ```
 [user@sahara ~]$ cd lecture1
 [user@sahara ~/lecture1]$ 
