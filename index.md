@@ -6,12 +6,12 @@ Hello World!
 ## CALLING ALL ABLE BODIED MEN
 go to THIS website [Link](https://balake819.github.io/cse15L-labreports/index.html)
 ---
-*here
-*is
-*a
-*group
-*of
-*words
+* here
+* is
+* a
+* group
+* of
+* words
 ---
 1. banana
 2. circle
