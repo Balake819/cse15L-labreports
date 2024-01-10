@@ -2,6 +2,7 @@
 January 10, 2024 <br/>
 **Terminal Commands:**
 We learned to use cd, cat, ls, and pwd. <br/>
+
 ---
 cd changes the directory that you are in, taking an input of the file destination that you want to go to.
 ```
@@ -20,6 +21,7 @@ bash: cd: README: Not a directory
 [user@sahara ~/lecture1]$
 ```
 With a file input, the command will return an error, because the terminal cannot travel to a file location, only to a directory. README is a file within lecture1, but there are no other files within it so the terminal cannot travel there. <br/>
+
 ---
 cat concatenates two inputs together, and returns the result. <br/>
 ```
@@ -40,6 +42,7 @@ java Hello messages/en-us.txt
 Hello World!
 ```
 With a file input, the command will return the text within the file, and with two file inputs, the terminal will print them one after another, in this case printing the README file first, and then the en-us.txt file. <br/>
+
 ---
 ls lists the files of a directory
 ```
@@ -57,6 +60,7 @@ With a directory input, ls lists the files within that directory. <br/>
 README
 ```
 With a file input, ls will just list the name of that file, and return it. <br/>
+
 ---
 pwd displays the current directory that you are in, regardless of input.
 ```
