@@ -24,7 +24,6 @@ bash: cd: README: Not a directory
 cat concatenates two inputs together, and returns the result. <br/>
 ```
 [user@sahara ~/lecture1]$ cat
-
 ```
 > Without an input, cat breaks the terminal and doesn't allow you to type in anymore commands. <br/>
 ```
