@@ -68,7 +68,7 @@ This is the absolute path to the public directory: <br/>
 
 This is the absolute path to the private directory in the ieng6 system: <br/>
 
-![Private Directory](https://github.com/blakenewhouse/cse15L-labreports/blob/main/pwdOfPrivateKeys.png)
+![Private Directory](pwdOfPrivateKeys.png)
 
 ---
 
