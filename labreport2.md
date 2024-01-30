@@ -39,6 +39,7 @@ class ChatServer {
 }
 ```
 `/add-message` examples: <br/>
+<br/>
 ![Adding Messages](https://github.com/blakenewhouse/cse15L-labreports/blob/main/addMessageExample2.png) <br/>
 * The `/add-message` command references the `handle request` method
 * It takes in an input of a url. The input here is "https://0-0-0-0-1212-5c7o9m6ioc4leds0r7eh4hrdj8.us.edusercontent.com/add-message?s=Hello&user=jpolitz".
@@ -48,6 +49,8 @@ class ChatServer {
 
 ---
 
+`/add-message` examples: <br/>
+<br/>
 ![Adding Messages](https://github.com/blakenewhouse/cse15L-labreports/blob/main/addMessageExample1.png)
 * The `/add-message` command references the `handle request` method
 * It takes in an input of a url. The input here is "https://0-0-0-0-1212-5c7o9m6ioc4leds0r7eh4hrdj8.us.edusercontent.com/add-message?s=How%20are%20you&user=yash".
