@@ -59,7 +59,7 @@ This is the absolute path to the private directory in the ieng6 syste: <br/>
 ![Private Directory](https://github.com/blakenewhouse/cse15L-labreports/blob/main/pwdOfPrivateKeys.png)
 
 ---
-I have logged in to teh ieng6 system without requiring a password: <br/>
+I have logged in to the ieng6 system without requiring a password: <br/>
 ![No Password Needed](https://github.com/blakenewhouse/cse15L-labreports/blob/main/ieng6noPassword)
 
 ---
