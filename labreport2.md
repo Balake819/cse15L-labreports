@@ -54,7 +54,9 @@ class ChatServer {
 * The values changed are the values within `parameter1`, `parameter2`, and `mainThread`. Parameters 1 and 2 get replaced, while `mainThread` keeps getting added onto.
 ---
 This is the absolute path to the public directory: <br/>
+
 ![Public Directory][3]
+⋮
 [3]: https://github.com/blakenewhouse/cse15L-labreports/blob/main/Screenshot%202024-01-30%20at%2012.44.00%20PM.png
 ---
 This is the absolute path to the private directory in the ieng6 syste: <br/>
