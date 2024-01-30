@@ -56,7 +56,7 @@ This is the absolute path to the public directory: <br/>
 ![Public Directory](https://github.com/blakenewhouse/cse15L-labreports/blob/main/Screenshot%202024-01-30%20at%2012.44.00%20PM.png)
 
 ---
-This is the absolute path to the private directory in the ieng6 syste: <br/>
+This is the absolute path to the private directory in the ieng6 system: <br/>
 
 ![Private Directory](https://github.com/blakenewhouse/cse15L-labreports/blob/main/pwdOfPrivateKeys.png)
 
