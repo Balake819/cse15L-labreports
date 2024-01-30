@@ -1,5 +1,5 @@
-# Lab Report 1 <br/>
-January 10, 2024 <br/>
+# Lab Report 2 <br/>
+January 29, 2024 <br/>
 Creating a Chat Server: <br/>
 We are using the `/add-message` query within the url to generate a username and message within the website.
 ---
