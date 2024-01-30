@@ -78,5 +78,5 @@ I have logged in to the ieng6 system without requiring a password: <br/>
 
 ---
 
-In weeks 2 and 3 I learned amny new things that I didn't know before, but one of the biggest ones was the different elements of a url link, and how we can manipulate them to change a website. I thought that it was really interesting that we can use a url query as an input for our code, and how each element of the url has its own importance within the search. For both `ChatServer` and `SearchEngine` we used the query to append to lists and create text based websites that can be updated by th euser simply by typing in a different URL, which I thought was really cool.
+In weeks 2 and 3 I learned many new things that I didn't know before, but one of the biggest ones was the different elements of a url link, and how we can manipulate them to change a website. I thought that it was really interesting that we can use a url query as an input for our code, and how each element of the url has its own importance within the search. For both `ChatServer` and `SearchEngine` we used the query to append to lists and create text based websites that can be updated by th euser simply by typing in a different URL, which I thought was really cool.
 
