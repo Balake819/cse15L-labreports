@@ -40,7 +40,7 @@ class ChatServer {
 ```
 `/add-message` examples: <br/>
 <br/>
-![Adding Messages](./ScreenShots/addMessageExample2.png) <br/>
+![Adding Messages](./Screenshots/addMessageExample2.png) <br/>
 * The `/add-message` command references the `handle request` method
 * It takes in an input of a url. The input here is "https://0-0-0-0-1212-5c7o9m6ioc4leds0r7eh4hrdj8.us.edusercontent.com/add-message?s=Hello&user=jpolitz".
 * Then, we take the query of that link and seperate it into multiple parts in order to find the user and the message, parameters 1 and 2 respectively. In this case, those parguments are "jpolitz" and "Hello".
