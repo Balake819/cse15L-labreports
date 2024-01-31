@@ -68,7 +68,7 @@ This is the absolute path to the public directory: <br/>
 
 This is the absolute path to the private directory in the ieng6 system: <br/>
 
-![Private Directory](pwdOfPrivateKeys.png)
+![Private Directory](Screenshots/pwdOfPrivateKeys.png)
 
 ---
 
