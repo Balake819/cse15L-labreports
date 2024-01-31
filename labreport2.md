@@ -62,7 +62,7 @@ class ChatServer {
 
 This is the absolute path to the public directory: <br/>
 
-![Public Directory](https://github.com/blakenewhouse/cse15L-labreports/blob/main/Screenshot%202024-01-30%20at%2012.44.00%20PM.png)
+![Public Directory](PublicLocation)
 
 ---
 
@@ -74,7 +74,7 @@ This is the absolute path to the private directory in the ieng6 system: <br/>
 
 I have logged in to the ieng6 system without requiring a password: <br/>
 
-![No Password Needed](https://github.com/blakenewhouse/cse15L-labreports/blob/main/ieng6noPassword)
+![No Password Needed](NoPassword)
 
 ---
 
