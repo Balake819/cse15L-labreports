@@ -68,13 +68,13 @@ This is the absolute path to the public directory: <br/>
 
 This is the absolute path to the private directory in the ieng6 system: <br/>
 
-![Private Directory](Screenshots/pwdOfPrivateKeys.png)
+![Private Directory](./Screenshots/pwdOfPrivateKeys.png)
 
 ---
 
 I have logged in to the ieng6 system without requiring a password: <br/>
 
-![No Password Needed](NoPassword)
+![No Password Needed](./Screenshots/NoPassword)
 
 ---
 
