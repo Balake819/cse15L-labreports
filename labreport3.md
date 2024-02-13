@@ -61,6 +61,42 @@ static int[] reversed(int[] arr) {
     return arr;
 }
 ```
+In the code above, we changed the reversed method so that we make a copy of the original list, and reverse the elements from the copy onto the original list, and then return that reversed original list. This fixes the issue of using the overwritten list because it takes a copy of it and doesn't change that copy.
 
 ---
 
+The command `less` is a command which will display the entire contents of a file on a seperate page, and it allows you to scroll though as if you were reading from a website. <br/>
+
+```
+less -N 1471-2431-2-1.txt
+```
+One option for a command line argument is `-N`, which will add line numbers onto the side of the file. This is extremely useful when using many other commands because it allows you to figure out which line you specifically need for other commands or methods. Output below:
+```
+      1 
+      2   
+      3     
+      4       
+      5         Background
+      6         Extensive bone marrow infiltration with cancer cells and
+      7         anticancer therapy lead to immune incompetence in children
+      8         with cancer [ 1 2 ] . Since the prognosis and overall
+      9         survival of children with cancer have dramatically improved
+     10         during past 30 years [ 3 ] , problems remain related to
+     11         infections, mainly during leukopenic periods [ 3 4 5 ] .
+     12         Causal pathogens of febrile neutropenia (FN), most
+     13         frequently bacterial or fungal, are identified and
+     14         confirmed by culture in 25-35% of the cases [ 3 6 ] . In
+     15         other 15-25% of patients with FN, bacterial or fungal
+     16         pathogens are suspected clinically. The remaining 50% of
+     17         cases are classified as a fever of unknown origin (FUO) and
+     18         may be caused by other pathogens, namely viruses, that are
+     19         more difficult to detect by conventional diagnostic methods
+     20         [ 7 8 9 ] .
+     21         Lymphotropic herpesviruses (LH) Epstein-Barr virus
+     22         (EBV), cytomegalovirus (CMV) and human herpesvirus-6
+     23         (HHV-6) establish a lifelong persistent infection in a
+     24         great majority of humans. They usually produce inaparent
+     25         infection or transient immune compromise in otherwise
+     26         healthy hosts but are able to cause life-threatening
+     27         primary or reactivated infections in individuals with
+```
