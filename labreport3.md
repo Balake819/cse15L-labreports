@@ -152,11 +152,11 @@ The search function talked about previously can be used from the command line as
 
 Using the command `less +/<day> ar104.txt` we get this:
 
-![Usage of -i](/Screenshots/+:days.png)
+![Usage of -i](/Screenshots/days.png)
 
 In combination with the last one, we write the command line like so: `less -i +/<for> ar104.txt` and we get an output looking like this:
 
-![Usage of -i](/Screenshots/-i+:for.png)
+![Usage of -i](/Screenshots/for.png)
 
 ---
 
