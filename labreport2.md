@@ -65,13 +65,13 @@ class ChatServer {
 
 ---
 
-This is the absolute path to the public directory: <br/>
+This is the absolute path to the public key: <br/>
 
 ![Public Directory](./Screenshots/PublicLocation.png)
 
 ---
 
-This is the absolute path to the private directory in the ieng6 system: <br/>
+This is the absolute path to the private key in the ieng6 system: <br/>
 
 ![Private Directory](./Screenshots/PrivateLocation.png)
 
