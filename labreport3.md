@@ -132,7 +132,7 @@ Here is another example, with a similar file, `ar104.txt`:
 ```
 less -i ar104.txt
 ```
-Another option of a command line argument is `-i`, which will ignore capitalization when searching for elements within the file. This allows you to search for elements without anything being case sensitive, because it is rare for you to be looking for a specific case of a word. Additionally, while within a file using `less`, you can type `/<search query>` and the program will highlight each time <search query> is mentioned in the program(I am using a screenshot here in order to show the highlighted words). <br/>
+Another option of a command line argument is `-i`, which will ignore capitalization when searching for elements within the file. This allows you to search for elements without anything being case sensitive, because it is rare for you to be looking for a specific case of a word. Additionally, while within a file using `less`, you can type `/<search query>` and the program will highlight each time the search query is mentioned in the program(I am using a screenshot here in order to show the highlighted words). <br/>
 
 Using a search input of "`/mice`". This case is a showcase of the search function.
 
