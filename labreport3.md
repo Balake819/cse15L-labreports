@@ -202,7 +202,7 @@ These are the first 13 lines of output with the command `less +400 ar104.txt`:
           Previously, we have noted a contralateral effect, in
 ```
 
-All of these examples are from the less documentation website: [less documentation website](https://man7.org/linux/man-pages/man1/grep.1.html)
+All of these examples are from the  [less documentation website](https://man7.org/linux/man-pages/man1/grep.1.html).
 
 
 
