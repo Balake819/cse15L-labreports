@@ -19,8 +19,8 @@ Keys Pressed: `ls<enter> cd<space>la<tab><enter> ls<enter> bash<space>test.sh<en
 
 ![error with bash](./Screenshots/bashError.png) <br/>
 
-This is not one of the steps, but for some reason the bash file I had contained an error, so I used vim to fix it.
-Keys Pressed: `vim<space>test.sh<enter> <down>89li<delete><delete><delete><delete><esc>ATests<esc>:wq<enter>`
+This is not one of the steps, but for some reason the bash file I had contained an error, so I used vim to fix it. <br/>
+Keys Pressed: `vim<space>test.sh<enter> <down>89li<delete><delete><delete><delete><esc>ATests<esc>:wq<enter>` <br/>
 
 ![bash edit](./Screenshots/Vimeditofbash.png) <br/>
 
@@ -29,12 +29,12 @@ Keys Pressed: `bash<space>test.sh<enter>` <br/>
 
 ![error with original code](./Screenshots/normalError.png) <br/>
 
-Now, we need to use `vim` to go and edit the code in the command line.
-Keys Pressed: `vim<space>List<tab>.java<enter> 42j12li<delete>2<esc>:wq<enter>`
+Now, we need to use `vim` to go and edit the code in the command line. <br/>
+Keys Pressed: `vim<space>List<tab>.java<enter> 42j12li<delete>2<esc>:wq<enter>` <br/>
 
 ![java edit](./Screenshots/VIMeditofjava.png) <br/>
 
-Now, we can run the tests and see that they all pass.
-Keys Pressed: `bash<space>test.sh`
+Now, we can run the tests and see that they all pass. <br/>
+Keys Pressed: `bash<space>test.sh` <br/>
 
 ![successful test](./Screenshots/successfulTest.png) <br/>
