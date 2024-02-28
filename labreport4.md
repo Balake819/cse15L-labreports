@@ -7,7 +7,7 @@ Speedrunning GitHub forks:
 Keys Pressed: `ssh<space>blnewhouse@ieng6-201.ucsd.edu<enter>` <br/>
 First I logged onto my ieng6 machine using `ssh blnewhouse@ieng6-201.ucsd.edu`.  <br/>
 
-![ieng6 Login](./Screenshots/ieng6login.png) <br/>
+![ieng6 Login](./Screenshots/ieng6Login.png) <br/>
 
 Keys Pressed: `git<space>clone<ctrl>c<enter>` <br/>
 After that, I used `git clone` to create a clone of the GitHub repository from the lab, using an argument of `git@github.com:blakenewhouse/lab7again.git` that I copy pasted from GitHub. <br/>
