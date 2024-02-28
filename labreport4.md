@@ -32,7 +32,7 @@ Keys Pressed: `bash<space>test.sh<enter>` <br/>
 Now, we need to use `vim` to go and edit the code in the command line.
 Keys Pressed: `vim<space>List<tab>.java<enter> 42j12li<delete>2<esc>:wq<enter>`
 
-![java edit](./Screenshots/Vimeditofjava.png) <br/>
+![java edit](./Screenshots/VIMeditofjava.png) <br/>
 
 Now, we can run the tests and see that they all pass.
 Keys Pressed: `bash<space>test.sh`
