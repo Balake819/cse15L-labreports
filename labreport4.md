@@ -34,6 +34,11 @@ Keys Pressed: `vim<space>List<tab>.java<enter> 42j12li<delete>2<esc>:wq<enter>` 
 
 ![java edit](./Screenshots/VIMeditofjava.png) <br/>
 
+Finally, we will `add` and `commit` our changes to GitHub.(I accidentally messed up one line, but committing before adding so i am going to ommit this from the keys pressed) <br/>
+Keys Pressed: `git<space>status<enter>git<space>add<space>ListExamples.java<enter>git<space>add<space>test.sh<enter>git<space>status<enter>git<space>commit<space>-m<space>"lab<space>report<space>changes"`
+
+![git commit](./Screenshots/gitCommit.png) <br/>
+
 Now, we can run the tests and see that they all pass. <br/>
 Keys Pressed: `bash<space>test.sh` <br/>
 
