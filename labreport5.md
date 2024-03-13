@@ -6,15 +6,15 @@ Debugging and Reflection: <br/>
 
 Student post: <br/>
 "I am trying to make a method that takes the square of a number and returns it. However, my code wont compile. Why is that?"
-![./Screenshots/infiniteLoop](codeWontRun)
-![./Screenshots/infiniteLoopTerminal](executionOfCode)
+![codeWontRun](./Screenshots/infiniteLoop)
+![executionOfCode](./Screenshots/infiniteLoopTerminal)
 
 TA response: <br/>
 "Looking at your code, I see that you are using a while loop to square the number. Check to make sure that you are correctly updating the `count variable` in order to stop the `while` loop."
 
 Student Corrections: <br/>
-![./Screenshots/infiniteLoop](fixedLoop)
-![./Screenshots/infiniteLoop](fixedLoopTerminal)
+![fixedLoop](./Screenshots/infiniteLoop)
+![fixedLoopTerminal](./Screenshots/infiniteLoop)
 
 Contents:
 
